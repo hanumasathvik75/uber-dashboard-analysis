@@ -58,6 +58,12 @@ A **5-page Power BI dashboard** was created including:
 
 ---
 
+### Dashboard link
+
+
+https://drive.google.com/file/d/1vD7MIQtDG8S9EOr5Inrd_yaeT5EknZyP/view?usp=sharing
+
+
 ## Dashboard Preview
 <img width="1125" height="639" alt="{2821AD13-E7D3-40CB-831D-C31B9D0F75CC}" src="https://github.com/user-attachments/assets/fbceb3e2-805c-4eff-997a-a4fd66fc4400" />
 
